@@ -2,7 +2,7 @@ import React from 'react'
 
 const blogPage = () => {
   return (
-    <div>Blog Page</div>
+    <div>My Blog Page</div>
   )
 }
 
